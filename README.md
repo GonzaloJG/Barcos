@@ -1,2 +1,3 @@
 # Barcos
-Proyecto realizado para la asignatura de PCD donde entran en juego hilos, estructuras de control de hilos, etc.
+##Proyecto realizado para la asignatura de PCD
+Proyecto enfocado al aprandizaje de programación concurrente, como creación de hilos y tratamiento con diferentes estructuras de sicronizacion de hilos.
